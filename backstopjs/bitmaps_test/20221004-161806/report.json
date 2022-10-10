@@ -1,0 +1,21 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_404_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221004-161806/Slimster_404_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_404_0_viewport_0_Desktop.png",
+        "label": "404",
+        "misMatchThreshold": 0.1,
+        "url": "http://slimster.slim/app_dev.php/404",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "error": "Reference file not found /Users/reind/Projects/BackstopJS regression testing/backstop_data/bitmaps_reference/Slimster_404_0_viewport_0_Desktop.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "Slimster"
+}

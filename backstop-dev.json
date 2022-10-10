@@ -1,0 +1,424 @@
+{
+  "id": "Slimster DEV",
+  "viewports": [
+    {
+      "label": "Desktop",
+      "width": 1440,
+      "height": 1280
+    },
+    {
+      "label": "iPhone XR",
+      "width": 414,
+      "height": 896
+    }
+  ],
+  "scenarios": [
+    {
+      "label": "404Page",
+      "url": "https://slimster.dev/app_dev.php/404",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "blogDetailPage",
+      "url": "https://slimster.dev/app_dev.php/blog/minder-gas-verbruiken-besparen-tips/ ",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "blogOverviewPage",
+      "url": "https://slimster.dev/app_dev.php/blog/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "businessHowToPag",
+      "url": "https://slimster.dev/app_dev.php/bedrijven/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "cityPage",
+      "url": "https://slimster.dev/app_dev.php/dakkapellen/drenthe/assen/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "comparisonDetailPage",
+      "url": "https://slimster.dev/app_dev.php/airfryers/6983/fritel-snacktastic-6902-xxl/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "contactPage",
+      "url": "https://slimster.dev/app_dev.php/over/contact/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "contentPage",
+      "url": "https://slimster.dev/app_dev.php/inspiratie/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "countryPage",
+      "url": "https://slimster.dev/app_dev.php/kozijnen/bedrijven/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "detailPage",
+      "url": "https://slimster.dev/app_dev.php/over/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "dynamicCityPage",
+      "url": "https://slimster.dev/app_dev.php/schilder/utrecht/hoogland/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "examplePage",
+      "url": "https://slimster.dev/app_dev.php/badkamer/voorbeelden/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "genericPage",
+      "url": "https://slimster.dev/app_dev.php/over/affiliate-partners/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "homePage",
+      "url": "https://slimster.dev/app_dev.php/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "newsDetailPage",
+      "url": "https://slimster.dev/app_dev.php/nieuws/interesse-in-aircos-blijft-achter/ ",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "newsOverviewPage",
+      "url": "https://slimster.dev/app_dev.php/nieuws/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "noHeaderPage",
+      "url": "https://slimster.dev/app_dev.php/duurzaam/SVOH-subsidie/ ",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "noHeaderPricePage",
+      "url": "https://slimster.dev/app_dev.php/zonnepanelen/kosten-zonnepanelen/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "overviewPage",
+      "url": "https://slimster.dev/app_dev.php/verzekeringen/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "productHomePage",
+      "url": "https://slimster.dev/app_dev.php/isolatie/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "productListPage",
+      "url": "https://slimster.dev/app_dev.php/airfryers/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "productPricePage",
+      "url": "https://slimster.dev/app_dev.php/raambeveiliging/kosten-raambeveiliging/ ",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "provincePage",
+      "url": "https://slimster.dev/app_dev.php/traprenovatie/limburg/ ",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "quoteFormPage",
+      "url": "https://slimster.dev/app_dev.php/badkamer/offerte/ ",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "subscribeBusinessPage",
+      "url": "https://slimster.dev/app_dev.php/bedrijven/aanmelden/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "tagListPage",
+      "url": "https://slimster.dev/app_dev.php/alles-over/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "tagOverviewPage",
+      "url": "https://slimster.dev/app_dev.php/alles-over/verlichting/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "teamPage",
+      "url": "https://slimster.dev/app_dev.php/over/team/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "thankYouPage",
+      "url": "https://slimster.dev/app_dev.php/offerte-aanvragen/bedankt/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    },
+    {
+      "label": "typeDetailPage",
+      "url": "https://slimster.dev/app_dev.php/aannemer/verbouwing-voorbeelden/",
+      "selectors": ["document", "viewport"],
+      "removeSelectors": [
+        ".sf-toolbar",
+        ".quick-nav",
+        ".header__usps",
+        "#trengo-widget",
+        "#trengo-web-widget"
+      ],
+      "delay": 500
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "playwright",
+  "engineOptions": {
+    "args": ["--no-sandbox"],
+    "browser": "chromium"
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 5,
+  "debug": false,
+  "debugWindow": false
+}

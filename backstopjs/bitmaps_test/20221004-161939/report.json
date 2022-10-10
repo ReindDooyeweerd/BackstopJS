@@ -1,0 +1,28 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_404_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221004-161939/Slimster_404_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_404_0_viewport_0_Desktop.png",
+        "label": "404",
+        "misMatchThreshold": 0.1,
+        "url": "http://slimster.slim/app_dev.php/404",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    }
+  ],
+  "id": "Slimster"
+}

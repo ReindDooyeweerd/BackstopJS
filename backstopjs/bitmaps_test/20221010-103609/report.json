@@ -1,0 +1,83 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_404Page_0_document_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-103609/SlimsterDEV_404Page_0_document_0_Desktop.png",
+        "selector": "document",
+        "fileName": "SlimsterDEV_404Page_0_document_0_Desktop.png",
+        "label": "404Page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/404",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_404Page_1_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-103609/SlimsterDEV_404Page_1_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_404Page_1_viewport_0_Desktop.png",
+        "label": "404Page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/404",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "error": "Reference file not found /Users/reind/Projects/BackstopJS regression testing/backstop_data/bitmaps_reference/SlimsterDEV_404Page_1_viewport_0_Desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_404Page_0_document_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-103609/SlimsterDEV_404Page_0_document_1_iPhone_XR.png",
+        "selector": "document",
+        "fileName": "SlimsterDEV_404Page_0_document_1_iPhone_XR.png",
+        "label": "404Page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/404",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.2943979761809323,
+          "misMatchPercentage": "0.29",
+          "analysisTime": 28
+        },
+        "diffImage": "../bitmaps_test/20221010-103609/failed_diff_SlimsterDEV_404Page_0_document_1_iPhone_XR.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_404Page_1_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-103609/SlimsterDEV_404Page_1_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_404Page_1_viewport_1_iPhone_XR.png",
+        "label": "404Page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/404",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "error": "Reference file not found /Users/reind/Projects/BackstopJS regression testing/backstop_data/bitmaps_reference/SlimsterDEV_404Page_1_viewport_1_iPhone_XR.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "Slimster DEV"
+}

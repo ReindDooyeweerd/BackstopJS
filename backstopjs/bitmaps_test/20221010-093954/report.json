@@ -1,0 +1,1338 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_404Page_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_404Page_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_404Page_0_viewport_0_Desktop.png",
+        "label": "404Page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/404",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_404Page_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_404Page_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_404Page_0_viewport_1_iPhone_XR.png",
+        "label": "404Page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/404",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_blogDetailPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_blogDetailPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_blogDetailPage_0_viewport_0_Desktop.png",
+        "label": "blogDetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/blog/minder-gas-verbruiken-besparen-tips/ ",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_blogDetailPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_blogDetailPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_blogDetailPage_0_viewport_1_iPhone_XR.png",
+        "label": "blogDetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/blog/minder-gas-verbruiken-besparen-tips/ ",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_blogOverviewPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_blogOverviewPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_blogOverviewPage_0_viewport_0_Desktop.png",
+        "label": "blogOverviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/blog/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_blogOverviewPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_blogOverviewPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_blogOverviewPage_0_viewport_1_iPhone_XR.png",
+        "label": "blogOverviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/blog/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_businessHowToPag_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_businessHowToPag_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_businessHowToPag_0_viewport_0_Desktop.png",
+        "label": "businessHowToPag",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/bedrijven/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_businessHowToPag_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_businessHowToPag_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_businessHowToPag_0_viewport_1_iPhone_XR.png",
+        "label": "businessHowToPag",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/bedrijven/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_cityPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_cityPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_cityPage_0_viewport_0_Desktop.png",
+        "label": "cityPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/dakkapellen/drenthe/assen/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_cityPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_cityPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_cityPage_0_viewport_1_iPhone_XR.png",
+        "label": "cityPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/dakkapellen/drenthe/assen/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_comparisonDetailPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_comparisonDetailPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_comparisonDetailPage_0_viewport_0_Desktop.png",
+        "label": "comparisonDetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/airfryers/6983/fritel-snacktastic-6902-xxl/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_comparisonDetailPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_comparisonDetailPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_comparisonDetailPage_0_viewport_1_iPhone_XR.png",
+        "label": "comparisonDetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/airfryers/6983/fritel-snacktastic-6902-xxl/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_contactPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_contactPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_contactPage_0_viewport_0_Desktop.png",
+        "label": "contactPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/over/contact/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_contactPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_contactPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_contactPage_0_viewport_1_iPhone_XR.png",
+        "label": "contactPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/over/contact/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_contentPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_contentPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_contentPage_0_viewport_0_Desktop.png",
+        "label": "contentPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/inspiratie/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_contentPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_contentPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_contentPage_0_viewport_1_iPhone_XR.png",
+        "label": "contentPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/inspiratie/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_countryPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_countryPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_countryPage_0_viewport_0_Desktop.png",
+        "label": "countryPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/kozijnen/bedrijven/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_countryPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_countryPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_countryPage_0_viewport_1_iPhone_XR.png",
+        "label": "countryPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/kozijnen/bedrijven/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_detailPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_detailPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_detailPage_0_viewport_0_Desktop.png",
+        "label": "detailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/over/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_detailPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_detailPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_detailPage_0_viewport_1_iPhone_XR.png",
+        "label": "detailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/over/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_dynamicCityPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_dynamicCityPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_dynamicCityPage_0_viewport_0_Desktop.png",
+        "label": "dynamicCityPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/schilder/utrecht/hoogland/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 48
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_dynamicCityPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_dynamicCityPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_dynamicCityPage_0_viewport_1_iPhone_XR.png",
+        "label": "dynamicCityPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/schilder/utrecht/hoogland/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_examplePage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_examplePage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_examplePage_0_viewport_0_Desktop.png",
+        "label": "examplePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/badkamer/voorbeelden/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_examplePage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_examplePage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_examplePage_0_viewport_1_iPhone_XR.png",
+        "label": "examplePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/badkamer/voorbeelden/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_genericPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_genericPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_genericPage_0_viewport_0_Desktop.png",
+        "label": "genericPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/over/affiliate-partners/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_genericPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_genericPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_genericPage_0_viewport_1_iPhone_XR.png",
+        "label": "genericPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/over/affiliate-partners/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_homePage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_homePage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_homePage_0_viewport_0_Desktop.png",
+        "label": "homePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_homePage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_homePage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_homePage_0_viewport_1_iPhone_XR.png",
+        "label": "homePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_newsDetailPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_newsDetailPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_newsDetailPage_0_viewport_0_Desktop.png",
+        "label": "newsDetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/nieuws/interesse-in-aircos-blijft-achter/ ",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_newsDetailPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_newsDetailPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_newsDetailPage_0_viewport_1_iPhone_XR.png",
+        "label": "newsDetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/nieuws/interesse-in-aircos-blijft-achter/ ",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_newsOverviewPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_newsOverviewPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_newsOverviewPage_0_viewport_0_Desktop.png",
+        "label": "newsOverviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/nieuws/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_newsOverviewPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_newsOverviewPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_newsOverviewPage_0_viewport_1_iPhone_XR.png",
+        "label": "newsOverviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/nieuws/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_noHeaderPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_noHeaderPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_noHeaderPage_0_viewport_0_Desktop.png",
+        "label": "noHeaderPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/duurzaam/SVOH-subsidie/ ",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_noHeaderPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_noHeaderPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_noHeaderPage_0_viewport_1_iPhone_XR.png",
+        "label": "noHeaderPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/duurzaam/SVOH-subsidie/ ",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_noHeaderPricePage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_noHeaderPricePage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_noHeaderPricePage_0_viewport_0_Desktop.png",
+        "label": "noHeaderPricePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/zonnepanelen/kosten-zonnepanelen/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_noHeaderPricePage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_noHeaderPricePage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_noHeaderPricePage_0_viewport_1_iPhone_XR.png",
+        "label": "noHeaderPricePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/zonnepanelen/kosten-zonnepanelen/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_overviewPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_overviewPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_overviewPage_0_viewport_0_Desktop.png",
+        "label": "overviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/verzekeringen/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 61
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_overviewPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_overviewPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_overviewPage_0_viewport_1_iPhone_XR.png",
+        "label": "overviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/verzekeringen/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_productHomePage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_productHomePage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_productHomePage_0_viewport_0_Desktop.png",
+        "label": "productHomePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/isolatie/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_productHomePage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_productHomePage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_productHomePage_0_viewport_1_iPhone_XR.png",
+        "label": "productHomePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/isolatie/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_productListPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_productListPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_productListPage_0_viewport_0_Desktop.png",
+        "label": "productListPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/airfryers/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_productListPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_productListPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_productListPage_0_viewport_1_iPhone_XR.png",
+        "label": "productListPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/airfryers/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_productPricePage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_productPricePage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_productPricePage_0_viewport_0_Desktop.png",
+        "label": "productPricePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/raambeveiliging/kosten-raambeveiliging/ ",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_productPricePage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_productPricePage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_productPricePage_0_viewport_1_iPhone_XR.png",
+        "label": "productPricePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/raambeveiliging/kosten-raambeveiliging/ ",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_provincePage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_provincePage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_provincePage_0_viewport_0_Desktop.png",
+        "label": "provincePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/traprenovatie/limburg/ ",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_provincePage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_provincePage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_provincePage_0_viewport_1_iPhone_XR.png",
+        "label": "provincePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/traprenovatie/limburg/ ",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_quoteFormPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_quoteFormPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_quoteFormPage_0_viewport_0_Desktop.png",
+        "label": "quoteFormPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/badkamer/offerte/ ",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 54
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_quoteFormPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_quoteFormPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_quoteFormPage_0_viewport_1_iPhone_XR.png",
+        "label": "quoteFormPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/badkamer/offerte/ ",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_subscribeBusinessPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_subscribeBusinessPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_subscribeBusinessPage_0_viewport_0_Desktop.png",
+        "label": "subscribeBusinessPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/bedrijven/aanmelden/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_subscribeBusinessPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_subscribeBusinessPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_subscribeBusinessPage_0_viewport_1_iPhone_XR.png",
+        "label": "subscribeBusinessPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/bedrijven/aanmelden/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_tagListPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_tagListPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_tagListPage_0_viewport_0_Desktop.png",
+        "label": "tagListPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/alles-over/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_tagListPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_tagListPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_tagListPage_0_viewport_1_iPhone_XR.png",
+        "label": "tagListPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/alles-over/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_tagOverviewPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_tagOverviewPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_tagOverviewPage_0_viewport_0_Desktop.png",
+        "label": "tagOverviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/alles-over/verlichting/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 52
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_tagOverviewPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_tagOverviewPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_tagOverviewPage_0_viewport_1_iPhone_XR.png",
+        "label": "tagOverviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/alles-over/verlichting/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 26
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_teamPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_teamPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_teamPage_0_viewport_0_Desktop.png",
+        "label": "teamPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/over/team/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_teamPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_teamPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_teamPage_0_viewport_1_iPhone_XR.png",
+        "label": "teamPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/over/team/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_thankYouPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_thankYouPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_thankYouPage_0_viewport_0_Desktop.png",
+        "label": "thankYouPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/offerte-aanvragen/bedankt/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_thankYouPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_thankYouPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_thankYouPage_0_viewport_1_iPhone_XR.png",
+        "label": "thankYouPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/offerte-aanvragen/bedankt/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_typeDetailPage_0_viewport_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_typeDetailPage_0_viewport_0_Desktop.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_typeDetailPage_0_viewport_0_Desktop.png",
+        "label": "typeDetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/aannemer/verbouwing-voorbeelden/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 43
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_typeDetailPage_0_viewport_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-093954/SlimsterDEV_typeDetailPage_0_viewport_1_iPhone_XR.png",
+        "selector": "viewport",
+        "fileName": "SlimsterDEV_typeDetailPage_0_viewport_1_iPhone_XR.png",
+        "label": "typeDetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/aannemer/verbouwing-voorbeelden/",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    }
+  ],
+  "id": "Slimster DEV"
+}

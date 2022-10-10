@@ -1,0 +1,55 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_404Page_0_document_0_Desktop.png",
+        "test": "../bitmaps_test/20221010-103440/SlimsterDEV_404Page_0_document_0_Desktop.png",
+        "selector": "document",
+        "fileName": "SlimsterDEV_404Page_0_document_0_Desktop.png",
+        "label": "404Page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/404",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 41
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/SlimsterDEV_404Page_0_document_1_iPhone_XR.png",
+        "test": "../bitmaps_test/20221010-103440/SlimsterDEV_404Page_0_document_1_iPhone_XR.png",
+        "selector": "document",
+        "fileName": "SlimsterDEV_404Page_0_document_1_iPhone_XR.png",
+        "label": "404Page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/404",
+        "expect": 0,
+        "viewportLabel": "iPhone XR",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.29558566342724973,
+          "misMatchPercentage": "0.30",
+          "analysisTime": 30
+        },
+        "diffImage": "../bitmaps_test/20221010-103440/failed_diff_SlimsterDEV_404Page_0_document_1_iPhone_XR.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "Slimster DEV"
+}

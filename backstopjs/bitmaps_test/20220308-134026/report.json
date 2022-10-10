@@ -1,0 +1,231 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_Slimster_homepage_0_viewport_0_iPhone_SE.png",
+        "test": "../bitmaps_test/20220308-134026/Slimster_Slimster_homepage_0_viewport_0_iPhone_SE.png",
+        "selector": "viewport",
+        "fileName": "Slimster_Slimster_homepage_0_viewport_0_iPhone_SE.png",
+        "label": "Slimster homepage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/",
+        "expect": 0,
+        "viewportLabel": "iPhone SE",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 5.148225887056472,
+          "misMatchPercentage": "5.15",
+          "analysisTime": 30
+        },
+        "diffImage": "../bitmaps_test/20220308-134026/failed_diff_Slimster_Slimster_homepage_0_viewport_0_iPhone_SE.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_Slimster_homepage_0_viewport_1_iPad_Air.png",
+        "test": "../bitmaps_test/20220308-134026/Slimster_Slimster_homepage_0_viewport_1_iPad_Air.png",
+        "selector": "viewport",
+        "fileName": "Slimster_Slimster_homepage_0_viewport_1_iPad_Air.png",
+        "label": "Slimster homepage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/",
+        "expect": 0,
+        "viewportLabel": "iPad Air",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.774803637866887,
+          "misMatchPercentage": "3.77",
+          "analysisTime": 107
+        },
+        "diffImage": "../bitmaps_test/20220308-134026/failed_diff_Slimster_Slimster_homepage_0_viewport_1_iPad_Air.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_Slimster_homepage_0_viewport_2_Desktop.png",
+        "test": "../bitmaps_test/20220308-134026/Slimster_Slimster_homepage_0_viewport_2_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_Slimster_homepage_0_viewport_2_Desktop.png",
+        "label": "Slimster homepage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 1.9884982638888888,
+          "misMatchPercentage": "1.99",
+          "analysisTime": 135
+        },
+        "diffImage": "../bitmaps_test/20220308-134026/failed_diff_Slimster_Slimster_homepage_0_viewport_2_Desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_Slimster_category_page_0_viewport_0_iPhone_SE.png",
+        "test": "../bitmaps_test/20220308-134026/Slimster_Slimster_category_page_0_viewport_0_iPhone_SE.png",
+        "selector": "viewport",
+        "fileName": "Slimster_Slimster_category_page_0_viewport_0_iPhone_SE.png",
+        "label": "Slimster category page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/aannemer",
+        "expect": 0,
+        "viewportLabel": "iPhone SE",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 6.0937531234382805,
+          "misMatchPercentage": "6.09",
+          "analysisTime": 31
+        },
+        "diffImage": "../bitmaps_test/20220308-134026/failed_diff_Slimster_Slimster_category_page_0_viewport_0_iPhone_SE.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_Slimster_category_page_0_viewport_1_iPad_Air.png",
+        "test": "../bitmaps_test/20220308-134026/Slimster_Slimster_category_page_0_viewport_1_iPad_Air.png",
+        "selector": "viewport",
+        "fileName": "Slimster_Slimster_category_page_0_viewport_1_iPad_Air.png",
+        "label": "Slimster category page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/aannemer",
+        "expect": 0,
+        "viewportLabel": "iPad Air",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.992455560148822,
+          "misMatchPercentage": "3.99",
+          "analysisTime": 98
+        },
+        "diffImage": "../bitmaps_test/20220308-134026/failed_diff_Slimster_Slimster_category_page_0_viewport_1_iPad_Air.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_Slimster_category_page_0_viewport_2_Desktop.png",
+        "test": "../bitmaps_test/20220308-134026/Slimster_Slimster_category_page_0_viewport_2_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_Slimster_category_page_0_viewport_2_Desktop.png",
+        "label": "Slimster category page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/aannemer",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.4269748263888884,
+          "misMatchPercentage": "3.43",
+          "analysisTime": 148
+        },
+        "diffImage": "../bitmaps_test/20220308-134026/failed_diff_Slimster_Slimster_category_page_0_viewport_2_Desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_Slimster_product_detail_page_0_viewport_0_iPhone_SE.png",
+        "test": "../bitmaps_test/20220308-134026/Slimster_Slimster_product_detail_page_0_viewport_0_iPhone_SE.png",
+        "selector": "viewport",
+        "fileName": "Slimster_Slimster_product_detail_page_0_viewport_0_iPhone_SE.png",
+        "label": "Slimster product detail page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/product/81/lg-75un71006lc",
+        "expect": 0,
+        "viewportLabel": "iPhone SE",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 2.784607696151924,
+          "misMatchPercentage": "2.78",
+          "analysisTime": 33
+        },
+        "diffImage": "../bitmaps_test/20220308-134026/failed_diff_Slimster_Slimster_product_detail_page_0_viewport_0_iPhone_SE.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_Slimster_product_detail_page_0_viewport_1_iPad_Air.png",
+        "test": "../bitmaps_test/20220308-134026/Slimster_Slimster_product_detail_page_0_viewport_1_iPad_Air.png",
+        "selector": "viewport",
+        "fileName": "Slimster_Slimster_product_detail_page_0_viewport_1_iPad_Air.png",
+        "label": "Slimster product detail page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/product/81/lg-75un71006lc",
+        "expect": 0,
+        "viewportLabel": "iPad Air",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 2.977986771393138,
+          "misMatchPercentage": "2.98",
+          "analysisTime": 109
+        },
+        "diffImage": "../bitmaps_test/20220308-134026/failed_diff_Slimster_Slimster_product_detail_page_0_viewport_1_iPad_Air.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_Slimster_product_detail_page_0_viewport_2_Desktop.png",
+        "test": "../bitmaps_test/20220308-134026/Slimster_Slimster_product_detail_page_0_viewport_2_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_Slimster_product_detail_page_0_viewport_2_Desktop.png",
+        "label": "Slimster product detail page",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.dev/app_dev.php/product/81/lg-75un71006lc",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 2.6201714409722223,
+          "misMatchPercentage": "2.62",
+          "analysisTime": 149
+        },
+        "diffImage": "../bitmaps_test/20220308-134026/failed_diff_Slimster_Slimster_product_detail_page_0_viewport_2_Desktop.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "Slimster"
+}

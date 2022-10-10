@@ -1,0 +1,634 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_HomePage_0_viewport_0_iPhone_SE.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_HomePage_0_viewport_0_iPhone_SE.png",
+        "selector": "viewport",
+        "fileName": "Slimster_HomePage_0_viewport_0_iPhone_SE.png",
+        "label": "HomePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/",
+        "expect": 0,
+        "viewportLabel": "iPhone SE",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_HomePage_0_viewport_1_iPad_Air.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_HomePage_0_viewport_1_iPad_Air.png",
+        "selector": "viewport",
+        "fileName": "Slimster_HomePage_0_viewport_1_iPad_Air.png",
+        "label": "HomePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/",
+        "expect": 0,
+        "viewportLabel": "iPad Air",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.17186854071930552,
+          "misMatchPercentage": "0.17",
+          "analysisTime": 76
+        },
+        "diffImage": "../bitmaps_test/20220404-111908/failed_diff_Slimster_HomePage_0_viewport_1_iPad_Air.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_HomePage_0_viewport_2_Desktop.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_HomePage_0_viewport_2_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_HomePage_0_viewport_2_Desktop.png",
+        "label": "HomePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.11810980902777779,
+          "misMatchPercentage": "0.12",
+          "analysisTime": 99
+        },
+        "diffImage": "../bitmaps_test/20220404-111908/failed_diff_Slimster_HomePage_0_viewport_2_Desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_OverviewPage_0_viewport_0_iPhone_SE.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_OverviewPage_0_viewport_0_iPhone_SE.png",
+        "selector": "viewport",
+        "fileName": "Slimster_OverviewPage_0_viewport_0_iPhone_SE.png",
+        "label": "OverviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/duurzaam/",
+        "expect": 0,
+        "viewportLabel": "iPhone SE",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 30
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_OverviewPage_0_viewport_1_iPad_Air.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_OverviewPage_0_viewport_1_iPad_Air.png",
+        "selector": "viewport",
+        "fileName": "Slimster_OverviewPage_0_viewport_1_iPad_Air.png",
+        "label": "OverviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/duurzaam/",
+        "expect": 0,
+        "viewportLabel": "iPad Air",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 38
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_OverviewPage_0_viewport_2_Desktop.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_OverviewPage_0_viewport_2_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_OverviewPage_0_viewport_2_Desktop.png",
+        "label": "OverviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/duurzaam/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 2.695583767361111,
+          "misMatchPercentage": "2.70",
+          "analysisTime": 82
+        },
+        "diffImage": "../bitmaps_test/20220404-111908/failed_diff_Slimster_OverviewPage_0_viewport_2_Desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_ProductHomePage_0_viewport_0_iPhone_SE.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_ProductHomePage_0_viewport_0_iPhone_SE.png",
+        "selector": "viewport",
+        "fileName": "Slimster_ProductHomePage_0_viewport_0_iPhone_SE.png",
+        "label": "ProductHomePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/aannemer/",
+        "expect": 0,
+        "viewportLabel": "iPhone SE",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 12.266666666666666,
+          "misMatchPercentage": "12.27",
+          "analysisTime": 104
+        },
+        "diffImage": "../bitmaps_test/20220404-111908/failed_diff_Slimster_ProductHomePage_0_viewport_0_iPhone_SE.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_ProductHomePage_0_viewport_1_iPad_Air.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_ProductHomePage_0_viewport_1_iPad_Air.png",
+        "selector": "viewport",
+        "fileName": "Slimster_ProductHomePage_0_viewport_1_iPad_Air.png",
+        "label": "ProductHomePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/aannemer/",
+        "expect": 0,
+        "viewportLabel": "iPad Air",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_ProductHomePage_0_viewport_2_Desktop.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_ProductHomePage_0_viewport_2_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_ProductHomePage_0_viewport_2_Desktop.png",
+        "label": "ProductHomePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/aannemer/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_ProductPricePage_0_viewport_0_iPhone_SE.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_ProductPricePage_0_viewport_0_iPhone_SE.png",
+        "selector": "viewport",
+        "fileName": "Slimster_ProductPricePage_0_viewport_0_iPhone_SE.png",
+        "label": "ProductPricePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/aannemer/kosten-verbouwing/",
+        "expect": 0,
+        "viewportLabel": "iPhone SE",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 12.201099450274864,
+          "misMatchPercentage": "12.20",
+          "analysisTime": 80
+        },
+        "diffImage": "../bitmaps_test/20220404-111908/failed_diff_Slimster_ProductPricePage_0_viewport_0_iPhone_SE.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_ProductPricePage_0_viewport_1_iPad_Air.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_ProductPricePage_0_viewport_1_iPad_Air.png",
+        "selector": "viewport",
+        "fileName": "Slimster_ProductPricePage_0_viewport_1_iPad_Air.png",
+        "label": "ProductPricePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/aannemer/kosten-verbouwing/",
+        "expect": 0,
+        "viewportLabel": "iPad Air",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_ProductPricePage_0_viewport_2_Desktop.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_ProductPricePage_0_viewport_2_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_ProductPricePage_0_viewport_2_Desktop.png",
+        "label": "ProductPricePage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/aannemer/kosten-verbouwing/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_QuoteFormPage_0_viewport_0_iPhone_SE.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_QuoteFormPage_0_viewport_0_iPhone_SE.png",
+        "selector": "viewport",
+        "fileName": "Slimster_QuoteFormPage_0_viewport_0_iPhone_SE.png",
+        "label": "QuoteFormPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/aannemer/offerte-verbouwing/",
+        "expect": 0,
+        "viewportLabel": "iPhone SE",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 9.210594702648676,
+          "misMatchPercentage": "9.21",
+          "analysisTime": 106
+        },
+        "diffImage": "../bitmaps_test/20220404-111908/failed_diff_Slimster_QuoteFormPage_0_viewport_0_iPhone_SE.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_QuoteFormPage_0_viewport_1_iPad_Air.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_QuoteFormPage_0_viewport_1_iPad_Air.png",
+        "selector": "viewport",
+        "fileName": "Slimster_QuoteFormPage_0_viewport_1_iPad_Air.png",
+        "label": "QuoteFormPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/aannemer/offerte-verbouwing/",
+        "expect": 0,
+        "viewportLabel": "iPad Air",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_QuoteFormPage_0_viewport_2_Desktop.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_QuoteFormPage_0_viewport_2_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_QuoteFormPage_0_viewport_2_Desktop.png",
+        "label": "QuoteFormPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/aannemer/offerte-verbouwing/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 2.7186414930555554,
+          "misMatchPercentage": "2.72",
+          "analysisTime": 71
+        },
+        "diffImage": "../bitmaps_test/20220404-111908/failed_diff_Slimster_QuoteFormPage_0_viewport_2_Desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_DetailPage_0_viewport_0_iPhone_SE.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_DetailPage_0_viewport_0_iPhone_SE.png",
+        "selector": "viewport",
+        "fileName": "Slimster_DetailPage_0_viewport_0_iPhone_SE.png",
+        "label": "DetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/over/",
+        "expect": 0,
+        "viewportLabel": "iPhone SE",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_DetailPage_0_viewport_1_iPad_Air.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_DetailPage_0_viewport_1_iPad_Air.png",
+        "selector": "viewport",
+        "fileName": "Slimster_DetailPage_0_viewport_1_iPad_Air.png",
+        "label": "DetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/over/",
+        "expect": 0,
+        "viewportLabel": "iPad Air",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_DetailPage_0_viewport_2_Desktop.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_DetailPage_0_viewport_2_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_DetailPage_0_viewport_2_Desktop.png",
+        "label": "DetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/over/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_BlogOverviewPage_0_viewport_0_iPhone_SE.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_BlogOverviewPage_0_viewport_0_iPhone_SE.png",
+        "selector": "viewport",
+        "fileName": "Slimster_BlogOverviewPage_0_viewport_0_iPhone_SE.png",
+        "label": "BlogOverviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/blog/",
+        "expect": 0,
+        "viewportLabel": "iPhone SE",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_BlogOverviewPage_0_viewport_1_iPad_Air.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_BlogOverviewPage_0_viewport_1_iPad_Air.png",
+        "selector": "viewport",
+        "fileName": "Slimster_BlogOverviewPage_0_viewport_1_iPad_Air.png",
+        "label": "BlogOverviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/blog/",
+        "expect": 0,
+        "viewportLabel": "iPad Air",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_BlogOverviewPage_0_viewport_2_Desktop.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_BlogOverviewPage_0_viewport_2_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_BlogOverviewPage_0_viewport_2_Desktop.png",
+        "label": "BlogOverviewPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/blog/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_BlogDetailPage_0_viewport_0_iPhone_SE.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_BlogDetailPage_0_viewport_0_iPhone_SE.png",
+        "selector": "viewport",
+        "fileName": "Slimster_BlogDetailPage_0_viewport_0_iPhone_SE.png",
+        "label": "BlogDetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/blog/waarom-vallen-mijn-zonnepanelen-uit/",
+        "expect": 0,
+        "viewportLabel": "iPhone SE",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_BlogDetailPage_0_viewport_1_iPad_Air.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_BlogDetailPage_0_viewport_1_iPad_Air.png",
+        "selector": "viewport",
+        "fileName": "Slimster_BlogDetailPage_0_viewport_1_iPad_Air.png",
+        "label": "BlogDetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/blog/waarom-vallen-mijn-zonnepanelen-uit/",
+        "expect": 0,
+        "viewportLabel": "iPad Air",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_BlogDetailPage_0_viewport_2_Desktop.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_BlogDetailPage_0_viewport_2_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_BlogDetailPage_0_viewport_2_Desktop.png",
+        "label": "BlogDetailPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/blog/waarom-vallen-mijn-zonnepanelen-uit/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_ContentPage_0_viewport_0_iPhone_SE.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_ContentPage_0_viewport_0_iPhone_SE.png",
+        "selector": "viewport",
+        "fileName": "Slimster_ContentPage_0_viewport_0_iPhone_SE.png",
+        "label": "ContentPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/internet/internet-vergelijken/",
+        "expect": 0,
+        "viewportLabel": "iPhone SE",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 10.038580709645178,
+          "misMatchPercentage": "10.04",
+          "analysisTime": 42
+        },
+        "diffImage": "../bitmaps_test/20220404-111908/failed_diff_Slimster_ContentPage_0_viewport_0_iPhone_SE.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_ContentPage_0_viewport_1_iPad_Air.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_ContentPage_0_viewport_1_iPad_Air.png",
+        "selector": "viewport",
+        "fileName": "Slimster_ContentPage_0_viewport_1_iPad_Air.png",
+        "label": "ContentPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/internet/internet-vergelijken/",
+        "expect": 0,
+        "viewportLabel": "iPad Air",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.0414427449359236,
+          "misMatchPercentage": "3.04",
+          "analysisTime": 46
+        },
+        "diffImage": "../bitmaps_test/20220404-111908/failed_diff_Slimster_ContentPage_0_viewport_1_iPad_Air.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/Slimster_ContentPage_0_viewport_2_Desktop.png",
+        "test": "../bitmaps_test/20220404-111908/Slimster_ContentPage_0_viewport_2_Desktop.png",
+        "selector": "viewport",
+        "fileName": "Slimster_ContentPage_0_viewport_2_Desktop.png",
+        "label": "ContentPage",
+        "misMatchThreshold": 0.1,
+        "url": "https://slimster.nl/internet/internet-vergelijken/",
+        "expect": 0,
+        "viewportLabel": "Desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 2.170735677083333,
+          "misMatchPercentage": "2.17",
+          "analysisTime": 79
+        },
+        "diffImage": "../bitmaps_test/20220404-111908/failed_diff_Slimster_ContentPage_0_viewport_2_Desktop.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "Slimster"
+}
